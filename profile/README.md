@@ -1,7 +1,7 @@
 # Withmangg Dev 👋
 
 Hi, I’m **Withmangg** 👨‍💻  
-**Withmangg Dev** adalah ruang personal untuk membangun, mengembangkan, dan mengarsipkan berbagai project digital yang saya kerjakan secara mandiri — dari ide kecil, eksperimen teknis, hingga produk yang siap digunakan.
+Ruang personal untuk membangun, mengembangkan, dan mengarsipkan berbagai project digital yang saya kerjakan secara mandiri — dari ide kecil, eksperimen teknis, hingga produk yang siap digunakan.
 
 🌍 Based in Indonesia  
 🌐 https://withmangg.my.id  
