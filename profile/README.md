@@ -43,33 +43,14 @@ Project di Withmangg Dev mencakup:
 ## 🧩 Tech Stack Favorit
 Teknologi yang sering saya gunakan dan kembangkan:
 
-- **Backend**: PHP (Laravel), REST API, JWT
+- **Backend**: PHP (Laravel), REST API, JWT, Python
 - **Frontend**: HTML, CSS, JavaScript
-- **Mobile**: Flutter
-- **Database**: MySQL, PostgreSQL
+- **Mobile**: Flutter, Kotlin
+- **Database**: MySQL, MongoDB
 - **DevOps**: Docker, Nginx, VPS
 - **Workflow**: Git, GitHub, CI/CD
 
 > Stack bisa berubah, prinsip tetap: clean code & maintainable system.
-
----
-
-## 📦 Pola Repository
-Penamaan repo biasanya mengikuti pola:
-
-- `web-*` → Web app & dashboard
-- `api-*` → Backend service
-- `mobile-*` → Mobile application
-- `tools-*` → Utility & helper
-- `experiment-*` → Riset & eksplorasi
-
----
-
-## 🎯 Visi Pribadi
-- Membangun sistem yang **berguna & scalable**
-- Terus improve kualitas kode dan arsitektur
-- Menjadikan setiap project sebagai **learning milestone**
-- Konsisten, bukan sekadar cepat
 
 ---
 
